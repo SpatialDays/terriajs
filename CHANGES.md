@@ -3,6 +3,7 @@
 #### next release (8.2.22)
 
 - Add `children` optional property to StandardUserInterfaceProps interface
+- Add support for ArcGis MapServer with `singleFusedMapCache` - for example layers served from ArcGis Online. This is supported through `ArcGisMapServerCatalogItem`, `ArcGisMapServerCatalogGroup` and `ArcGisCatalogGroup`.
 - [The next improvement]
 
 #### 8.2.21 - 2022-11-10
